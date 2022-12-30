@@ -6,7 +6,7 @@ Frontend developer
 
 * 🌍  I'm based in Porto, Portugal
 * ✉️  You can contact me at [smartinhodev@gmail.com](mailto:smartinhodev@gmail.com)
-* 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects as a frontend developer
+* 🤝  I'm open to collaborating on interesting projects as a frontend developer
 * ⚡  I'm secretly a unicorn
 
 ### Skills
